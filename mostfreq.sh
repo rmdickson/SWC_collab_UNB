@@ -1,1 +1,1 @@
-python species_counts.py *.txt | sort -k2 -n | tail -1
+python species_counts.py *.txt | sort -k2 -n | tail -2
